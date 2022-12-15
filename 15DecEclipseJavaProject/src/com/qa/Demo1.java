@@ -8,7 +8,7 @@ public class Demo1 {
 	       if(i<=5)
 	       {
 	          System.out.println(i);
-	          i++;
+	          i--;
 	          subofmain();
 	       }
     }
